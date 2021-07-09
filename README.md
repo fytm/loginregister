@@ -1,2 +1,2 @@
 # loginregister
-Live hoster on 000webhost.com
+Live hosted on 000webhost.com
